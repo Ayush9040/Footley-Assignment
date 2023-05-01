@@ -7,7 +7,6 @@ import PlayArrowIcon from '@mui/icons-material/PlayArrow';
 import PauseIcon from '@mui/icons-material/Pause';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
-import { Paper } from '@mui/material';
 import { Typography } from '@mui/material';
 import { Button } from '@mui/material';
 
